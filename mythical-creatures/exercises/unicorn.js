@@ -8,7 +8,6 @@ class Unicorn {
     }
   }
   isWhite() {
-    console.log(this.color);
     if(this.color !== 'white') {
       return false;
     }
