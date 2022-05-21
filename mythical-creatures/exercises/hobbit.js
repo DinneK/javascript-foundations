@@ -31,13 +31,3 @@ var mark = new Hobbit('Mark');
 
 
 module.exports = Hobbit;
-
-
-// drink() {
-//    if (this.ouncesDrank < 50) {
-//     this.ouncesDrank = this.ouncesDrank + 10;
-//   }
-//     this.thirsty = false
-//     return 'I\'m too full to drink anymore!'
-// }
-// };
